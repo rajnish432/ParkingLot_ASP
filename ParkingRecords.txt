@@ -1,0 +1,12 @@
+Vehicle NumberMH 09 JJ 5432has been Parked at Slot Number5at time:08-09-2020 10:29:53
+Vehicle Number HR 12 AH 7788 has been Parked at Slot Number 6 at time: 09-09-2020 09:55:04
+Vehicle Number TN 12 AS 6543 has been Parked at Slot Number 7 at time: 09-09-2020 09:58:09
+Vehicle Number GJ 02 SS 6523 has been Parked at Slot Number 8 at time: 09-09-2020 09:59:26
+Vehicle number GJ 02 SS 6523 is Unparked kindly pay the Charges: 0
+Vehicle number MH 04 JJ 9876 is Unparked kindly pay the Charges: 0
+Vehicle number MH 09 JJ 5432 is Unparked kindly pay the Charges: 0
+Vehicle number MH 43 BJ 1832 is Unparked kindly pay the Charges: 5767
+Vehicle number HR 12 AH 7788 is Unparked kindly pay the Charges: 34
+Vehicle Number MH 42 BC 9872 has been Parked at Slot Number 9 at time: 09-09-2020 11:54:01
+Vehicle number MH 42 BC 9872 is Unparked kindly pay the Charges: 1298
+Vehicle number GJ 02 SS 6523 is Unparked kindly pay the Charges: 1420

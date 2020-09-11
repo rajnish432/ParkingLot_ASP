@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationServiceLayer.deps.json
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationServiceLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationServiceLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationModelLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationRepositoryLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationModelLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationRepositoryLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.csproj.CopyComplete
+C:\Users\Dell\source\repos\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.csproj.CoreCompileInputs.cache

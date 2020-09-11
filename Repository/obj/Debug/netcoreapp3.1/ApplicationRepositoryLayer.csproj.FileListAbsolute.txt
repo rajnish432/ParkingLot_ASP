@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\bin\Debug\netcoreapp3.1\ApplicationRepositoryLayer.deps.json
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\bin\Debug\netcoreapp3.1\ApplicationRepositoryLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\obj\Debug\netcoreapp3.1\ApplicationRepositoryLayer.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\obj\Debug\netcoreapp3.1\ApplicationRepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\obj\Debug\netcoreapp3.1\ApplicationRepositoryLayer.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\bin\Debug\netcoreapp3.1\ApplicationRepositoryLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\obj\Debug\netcoreapp3.1\ApplicationRepositoryLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\obj\Debug\netcoreapp3.1\ApplicationRepositoryLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\bin\Debug\netcoreapp3.1\ApplicationModelLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\bin\Debug\netcoreapp3.1\ApplicationModelLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\obj\Debug\netcoreapp3.1\ApplicationRepositoryLayer.csproj.CopyComplete
+C:\Users\Dell\source\repos\ParkingLotApplication\Repository\obj\Debug\netcoreapp3.1\ApplicationRepositoryLayer.csproj.CoreCompileInputs.cache

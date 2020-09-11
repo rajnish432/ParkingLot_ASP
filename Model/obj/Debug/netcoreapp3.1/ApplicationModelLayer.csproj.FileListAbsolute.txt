@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\bin\Debug\netcoreapp3.1\ApplicationModelLayer.deps.json
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\bin\Debug\netcoreapp3.1\ApplicationModelLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\bin\Debug\netcoreapp3.1\ApplicationModelLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\obj\Debug\netcoreapp3.1\ApplicationModelLayer.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\obj\Debug\netcoreapp3.1\ApplicationModelLayer.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\obj\Debug\netcoreapp3.1\ApplicationModelLayer.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\obj\Debug\netcoreapp3.1\ApplicationModelLayer.dll
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\obj\Debug\netcoreapp3.1\ApplicationModelLayer.pdb
+C:\Users\Dell\source\repos\ParkingLotApplication\Model\obj\Debug\netcoreapp3.1\ApplicationModelLayer.csproj.CoreCompileInputs.cache
